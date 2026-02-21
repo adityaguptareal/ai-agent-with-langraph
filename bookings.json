@@ -1,0 +1,17 @@
+[
+  {
+    "bookingId": "BK-1771760101409",
+    "passengerName": "Aditya Kumar",
+    "email": "adityguptapro@gmail.com",
+    "flight": {
+      "id": "AI101",
+      "airline": "Air India",
+      "from": "DEL",
+      "to": "BOM",
+      "departs": "2026-03-02T08:00",
+      "arrives": "2026-03-02T10:10",
+      "price": 6200
+    },
+    "createdAt": "2026-02-22T11:35:01.409Z"
+  }
+]
