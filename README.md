@@ -1,4 +1,4 @@
-# ✈️ Tripo Saints Flight Booking Agent (Modular Version)
+# Flight Booking Agent (Modular Version)
 
 A production-ready AI agent designed to help users search, select, and book flights through a strict, tool-driven workflow. Built using **LangChain** and **LangGraph**.
 
